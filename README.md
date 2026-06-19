@@ -1,7 +1,9 @@
 ### 💼 Work
 
 ✔️ **Serveone** 2026.05 ~ Present
+
 ✔️ **Osstem Implant** 2022.11 ~ 2026.04
+
 ✔️ **LaonPeople** 2019.10 ~ 2022.10
 
 <br/>
