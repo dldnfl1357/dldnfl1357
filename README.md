@@ -2,7 +2,7 @@
 
 ✔️ **Serveone** 2026.05 ~ Present<br/>
 ✔️ **Osstem Implant** 2022.11 ~ 2026.04<br/>
-✔️ **LaonPeople** 2019.10 ~ 2022.10
+✔️ **Laon People** 2019.10 ~ 2022.10
 
 <br/>
 
@@ -11,8 +11,8 @@
 | Project                                             | Description                                                                                                                   | Affiliation      | Period            |
 | :-------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------- | :--------------- | :---------------- |
 | **Dental Clinic–Lab Prosthetics Ordering Platform** | DDD domain modeling, Terraform·ECS infrastructure, event-driven MSA, query & infra optimization after load testing            | Osstem Implant   | 2022.11 ~ 2026.01 |
-| **Sleep Apnea Diagnosis Assistance SW**             | Spring Boot design & implementation, air-gapped Docker deployment, designated Korea MFDS Innovative Medical Device No. 11     | RaonMedi         | 2021.01 ~ 2022.10 |
-| **Cephalometric Treatment Planning SW**             | C#·WPF development & maintenance, secured additional orders through close support for a Japanese client                       | RaonPeople       | 2019.10 ~ 2020.12 |
+| **Sleep Apnea Diagnosis Assistance SW**             | Spring Boot design & implementation, air-gapped Docker deployment, designated Korea MFDS Innovative Medical Device No. 11     | Laon People         | 2021.01 ~ 2022.10 |
+| **Cephalometric Treatment Planning SW**             | C#·WPF development & maintenance, secured additional orders through close support for a Japanese client                       | Laon People       | 2019.10 ~ 2020.12 |
 | **Payment Server (300 TPS)**                        | 3-layer double-payment prevention (idempotency key, distributed lock, optimistic lock); DDD, Saga, double-entry ledger design | Personal Project | 2026.01 ~ 2026.02 |
 | **Ticket Reservation Service**                      | Processed 100K concurrent requests at 100% consistency using Redis Bitmap + Kafka                                             | Personal Project | 2025.11           |
 
