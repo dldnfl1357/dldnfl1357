@@ -1,22 +1,20 @@
 ### 💼 Work
 
-| 회사               | 역할            | 기간              |
-| :----------------- | :-------------- | :---------------- |
-| **서브원**         | 백엔드          | 2026.05 ~ 재직중  |
-| **오스템임플란트** | 백엔드 / 인프라 | 2022.11 ~ 2026.04 |
-| **라온피플**       | PM / 백엔드     | 2019.10 ~ 2022.10 |
+✔️ **Serveone** 2026.05 ~ Present
+✔️ **Osstem Implant** 2022.11 ~ 2026.04
+✔️ **LaonPeople** 2019.10 ~ 2022.10
 
 <br/>
 
 ### 📂 Project
 
-| 프로젝트                         | 내용                                                                                                       | 소속           | 기간              |
-| :------------------------------- | :--------------------------------------------------------------------------------------------------------- | :------------- | :---------------- |
-| **치과·기공소 보철 주문 플랫폼** | 백엔드/인프라 - DDD 도메인 설계, Terraform·ECS 인프라, 이벤트 기반 MSA, 부하 테스트 후, 쿼리&인프라 최적화 | 오스템임플란트 | 2022.11 ~ 2026.01 |
-| **수면무호흡 진단 보조 SW**      | 백엔드/PM - Spring Boot 설계·구현, 폐쇄망 Docker 배포, 식약처 **제11호 혁신의료기기** 지정                 | 라온메디       | 2021.01 ~ 2022.10 |
-| **세팔로메트릭 치료계획 SW**     | Windows App - C#·WPF 개발 및 유지보수, 일본 고객 밀착 대응으로 추가 발주 확보                              | 라온피플       | 2019.10 ~ 2020.12 |
-| **결제 서버 (300 TPS)**          | 멱등성 키·분산 락·낙관적 락 3단계 이중 지불 방지, DDD·Saga·복식부기 원장 설계                              | 개인 프로젝트  | 2026.01 ~ 2026.02 |
-| **티켓 예매 서비스**             | Redis Bitmap + Kafka로 10만 건 동시 요청을 정합률 100%로 처리                                              | 개인 프로젝트  | 2025.11           |
+| Project                                             | Description                                                                                                                   | Affiliation      | Period            |
+| :-------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------- | :--------------- | :---------------- |
+| **Dental Clinic–Lab Prosthetics Ordering Platform** | DDD domain modeling, Terraform·ECS infrastructure, event-driven MSA, query & infra optimization after load testing            | Osstem Implant   | 2022.11 ~ 2026.01 |
+| **Sleep Apnea Diagnosis Assistance SW**             | Spring Boot design & implementation, air-gapped Docker deployment, designated Korea MFDS Innovative Medical Device No. 11     | RaonMedi         | 2021.01 ~ 2022.10 |
+| **Cephalometric Treatment Planning SW**             | C#·WPF development & maintenance, secured additional orders through close support for a Japanese client                       | RaonPeople       | 2019.10 ~ 2020.12 |
+| **Payment Server (300 TPS)**                        | 3-layer double-payment prevention (idempotency key, distributed lock, optimistic lock); DDD, Saga, double-entry ledger design | Personal Project | 2026.01 ~ 2026.02 |
+| **Ticket Reservation Service**                      | Processed 100K concurrent requests at 100% consistency using Redis Bitmap + Kafka                                             | Personal Project | 2025.11           |
 
 <br/>
 
